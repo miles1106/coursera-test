@@ -25,6 +25,7 @@ body {
   font-weight: bold;
   text-shadow: 1px 1px 1px #222;
   margin-top: 0;
+  margin-left: 0;
   margin-bottom: 0;
   line-height: .75;
 }
@@ -67,7 +68,7 @@ body {
   border: 0px;
   color: hsl(0, 100%, 30%);
 }
-#Chicken {
+#Chicken, #Beef, #Sushi{
   font-size: 25px;
   font-weight: bold;
   text-align: center;
